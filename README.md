@@ -1,6 +1,4 @@
 # Kiran Varma
-Personal Repository
-
 
 
 ## 🌐 Socials:
