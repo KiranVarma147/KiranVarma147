@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋!! I'm Kiran Varma</h1>
+<h1 align="center">Hey👋, I'm Kiran Varma</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
 - 📫 How to reach me **datlakiran147@gmail.com**
