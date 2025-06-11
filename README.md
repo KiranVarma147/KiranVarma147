@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Kiran Varma</h1>
-<h3 align="center">Passionate Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 📫 How to reach me **datlakiran147@gmail.com**
+- 📫 How to reach me **kiranvarma5442@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
